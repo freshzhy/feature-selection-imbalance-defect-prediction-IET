@@ -1,0 +1,2 @@
+Dataset,IMB,note,n_folds
+EQ,ADASYN,fallback_SMOTE:ValueError,1200

@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.DS_Store
+.venv/
+results_*_quick/
+results_sensitivity/all_folds.csv
